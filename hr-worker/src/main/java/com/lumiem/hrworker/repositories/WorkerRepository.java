@@ -1,8 +1,8 @@
-package com.devsuperior.hrworker.repositories;
+package com.lumiem.hrworker.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.devsuperior.hrworker.entities.Worker;
+import com.lumiem.hrworker.entities.Worker;
 
 public interface WorkerRepository extends JpaRepository<Worker, Long> {
 	

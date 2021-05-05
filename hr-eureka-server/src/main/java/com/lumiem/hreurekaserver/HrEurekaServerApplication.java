@@ -1,13 +1,13 @@
-package com.devsuperior.hrworker;
+package com.lumiem.hreurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GpWorkerApplication {
+public class HrEurekaServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GpWorkerApplication.class, args);
+		SpringApplication.run(HrEurekaServerApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.devsuperior.hrworker.entities;
+package com.lumiem.hrworker.entities;
 
 import java.io.Serializable;
 
