@@ -14,7 +14,7 @@
 	<name>hr-config-server</name>
 	<description>Config Server</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>10</java.version>
 		<spring-cloud.version>Hoxton.SR11</spring-cloud.version>
 	</properties>
 	<dependencies>
